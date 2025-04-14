@@ -3,7 +3,7 @@
 
 Published in IEEE Journal of Biomedical and Health Informatics.
 <div style='display:flex; gap: 0.25rem; '>
-<a href='https://ieeexplore.ieee.org/document/10816575'><img src='https://img.shields.io/badge/UniBrain-Article-red'></a>
+<a href='https://ieeexplore.ieee.org/document/10816575'><img src='https://img.shields.io/badge/MSTformer-Article-red'></a>
 
 </div>
 
