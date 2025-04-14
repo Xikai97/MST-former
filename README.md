@@ -16,7 +16,7 @@ In this study, we introduce the Multi-scale Spatio-temporal Transformer Network 
 
 3. We improve the Balanced Softmax Cross-entropy loss with temperature control to handle the class imbalanced issue in the training set. Compared with previous works that employ multi-stage training with the AC strategy, the τ-control Balanced Softmax Cross-entropy loss enables end-to-end training with the whole training samples, which is more efficient and elegant.
 
-![](./assets/graphical abstract_1223.png)
+![](./assets/graphical_abstract_1223.png)
 
 
 ## Model Usage
